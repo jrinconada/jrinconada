@@ -1,5 +1,5 @@
-# Juan Rinconada
-A computer scientist focused in **Android** development and teaching with years of experience working with _Android_, **iOS**, **Flutter**, _ C++_, _p5js_, _Raspberry Pi_, _Arduino_, **Python**, _Cobol_ and more!
+# 💾 Juan Rinconada
+A computer scientist focused in **Android** development and teaching with years of experience working with _Android_, **iOS**, **Flutter**, _C++_, _p5js_, _Raspberry Pi_, _Arduino_, **Python**, _Cobol_ and more!
 ## Platforms
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
