@@ -1,10 +1,21 @@
 # 💾 Juan Rinconada
 A computer scientist focused in **Android** development and teaching with years of experience working with _Android_, **iOS**, **Flutter**, _C++_, _p5js_, _Raspberry Pi_, _Arduino_, **Python**, _Cobol_ and more!
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jrinconada/)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCKuDsSaII9Wd6vbVadx1Z6g)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/dev?id=4695881001147977834)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jrinconada@gmail.com)
+<a href="https://www.linkedin.com/in/jrinconada/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.youtube.com/channel/UCKuDsSaII9Wd6vbVadx1Z6g">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://play.google.com/store/apps/dev?id=4695881001147977834">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
+</a>
+<a href="https://medium.com/@jrinconada">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="mailto:jrinconada@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 ## Platforms
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
