@@ -1,5 +1,5 @@
 # 💾 Juan Rinconada
-A computer scientist focused in **Android** development and teaching with years of experience working with _Android_, **iOS**, **Flutter**, _C++_, _p5js_, _Raspberry Pi_, _Arduino_, **Python**, _Cobol_ and more!
+A computer scientist focused on **Android** development and teaching with years of experience working with a lot of tech like _Android_, _iOS_, _Flutter_, _KMP_, **Java**, **Kotlin**, **C++**, _p5js_, _git_, _bash_, _Raspberry Pi_, _Arduino_, **Python**, **JavaScript**, **Cobol**, _SQLite_, _PostgreSQL_, _Copilot_, _Gemini_, _Claude_...
 
 <a href="https://www.linkedin.com/in/jrinconada/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
